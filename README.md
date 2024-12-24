@@ -6,7 +6,7 @@ This npm package provides a comprehensive set of utility functions that make you
 
 To install this package, run:
 ```bash
-npm install basic-utils
+npm install the-basic-utils
 ```
 
 ## Importing Utilities
@@ -14,9 +14,9 @@ npm install basic-utils
 You can import specific functions or the entire module:
 
 ```javascript
-const { isEmpty, isJson, deepClone } = require('basic-utils');
+const { isEmpty, isJson, deepClone } = require('the-basic-utils');
 // or
-const utils = require('basic-utils');
+const utils = require('the-basic-utils');
 ```
 
 ## Functions and Usage
