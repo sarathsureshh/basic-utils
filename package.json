@@ -1,6 +1,6 @@
 {
   "name": "the-basic-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A collective package of basic utils",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "utils",
     "basic-utils",
-    "the-basic-utils"
+    "the-basic-utils",
     "utilities",
     "basic"
   ],
